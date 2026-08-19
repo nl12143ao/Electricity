@@ -1,0 +1,22 @@
+
+Here is some text with a [reference link][1] and another [named link][docs].
+
+[1]: https://www.example.com 
+[docs]: https://docs.github.com 
+
+Be sure to read the [GitHub][` guidelines.
+
+[`]: https://docs.github.com/en/get-started 
+
+
+
+[Link Text]: (https://www.example.com)
+
+[https://transparency.entsoe.eu/transmission/physicalFlows](https://transparency.entsoe.eu/transmission/physicalFlows)
+
+https://transparency.entsoe.eu/transmission/physicalFlows
+
+https://app.electricitymaps.com/map/zone/NL/live/hourly
+
+
+
